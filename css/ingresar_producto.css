@@ -49,7 +49,7 @@ button {
 #fixed {
   position: fixed;
   bottom: 70vh;
-  right: 70vw;
+  right: 50vw;
   width: 98vw;
   border: 3px solid #73AD21;
 }
