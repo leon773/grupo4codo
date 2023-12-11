@@ -54,13 +54,6 @@ button {
 }
 
 
-
-
-
-
-
-
-
 .nuevo{
     color: #f2f2f2;
     margin-right: 2vh;
@@ -74,6 +67,9 @@ button {
     display: inline-block; /* Mostrar como bloque en línea */
     font-size: 1vw; /* Tamaño de fuente */
     cursor: pointer; /* Cambia el cursor al pasar el ratón */
+
+
+    
 }
 
   button:hover {
