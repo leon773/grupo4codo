@@ -48,9 +48,9 @@ button {
 
 #fixed {
   position: fixed;
-  bottom: 0;
-  right: 300px;
-  width: 300px;
+  bottom: 70vh;
+  right: 70vw;
+  width: 98vw;
   border: 3px solid #73AD21;
 }
 
